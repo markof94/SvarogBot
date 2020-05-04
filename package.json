@@ -1,0 +1,28 @@
+{
+  "name": "svarogbot",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markof94/SvarogBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Marko Fajler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markof94/SvarogBot/issues"
+  },
+  "homepage": "https://github.com/markof94/SvarogBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "request": "^2.81.0"
+  }
+}
